@@ -5,3 +5,9 @@
 .p-l-50 {
     padding-left: 50px;
 }
+
+@media(min-width: 1200px){
+	.side-bar {
+		margin-left: 5.333333%;
+	}
+}
